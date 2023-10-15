@@ -1,0 +1,41 @@
+.template-background {
+    background: url(../background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0px;
+    text-align: left;
+}
+
+.header {
+    background-color:#047276;
+}
+
+.card {
+    background-color: #9ea2b0;
+}
+
+.button-style {
+    height: 37px;
+    width: 100px;
+    font-size: 15px;
+    border: 1px solid #d5d9da;
+    border-radius: 3px;
+    background-color: #3b5872;
+    color: #ffffff;
+}
+
+.btn:hover {
+    background-color: #242a75;
+    color: #ffffff;
+}
+
+.success {
+    color: green;
+    cursor: pointer;
+}
+
+.danger {
+    color: red;
+    cursor: pointer;
+}
